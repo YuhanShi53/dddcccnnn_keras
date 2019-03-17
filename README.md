@@ -1,2 +1,2 @@
 # dddcccnnn_keras
-DCN implement by Keras (TO BE FINISHED)
+DCN implement in Keras (TO BE FINISHED)
